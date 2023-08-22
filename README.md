@@ -5,7 +5,8 @@
 This project showcase how different Department within the organization ran their technical maintenance schedule.
 
 This Dashboard displays Backlog Work Orders by Work Criticality
-![Maintenance KPIs backlog](https://github.com/mikeolaniyi/Maintenance_KPIs_Backlog_Analysis/assets/120651356/5af0596f-97a2-41e8-aeb4-66150dd49687)
+![Maintenance KPIs backlog](https://github.com/mikeolaniyi/Maintenance_KPIs_Backlog_Analysis/assets/120651356/4682e161-08e9-4164-8e70-b8bdd32aa520)
+
 
 Below we have Backlog Details
 ![Maintenance KPIs backlog1](https://github.com/mikeolaniyi/Maintenance_KPIs_Backlog_Analysis/assets/120651356/c85a8d15-9df4-493d-89bb-2738a069d6ef)
