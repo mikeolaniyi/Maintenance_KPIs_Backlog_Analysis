@@ -2,9 +2,9 @@
 
 ![KPIs](https://github.com/mikeolaniyi/Maintenance_KPIs_Backlog_Analysis/assets/120651356/dfc102e5-7925-4b4e-b893-6d4af7cf1ed5)
 
-# This project showcases how different departments within the organization could schedule and run their technical maintenance more effectively.
+## This project showcases how different departments within the organization could schedule and run their technical maintenance more effectively.
 
-This Dashboard displays Backlog Work Orders by Work Criticality
+- This Dashboard displays Backlog Work Orders by Work Criticality
 
 ![Maintenance KPIs backlog](https://github.com/mikeolaniyi/Maintenance_KPIs_Backlog_Analysis/assets/120651356/4682e161-08e9-4164-8e70-b8bdd32aa520)
 
