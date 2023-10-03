@@ -6,6 +6,9 @@
 
 - This Dashboard displays Backlog Work Orders by Work Criticality
 
+
+**[View Dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiNTE4ZWMwZGEtY2JlOS00ZjZlLTg0NGYtNWY1ZWJhMWU3OGY0IiwidCI6IjEyMWFkMTYxLTk3MTAtNDQ3Ny1iYjZlLWJmZWNlMmMyMmFjOSJ9)**
+
 ![Maintenance KPIs backlog](https://github.com/mikeolaniyi/Maintenance_KPIs_Backlog_Analysis/assets/120651356/4682e161-08e9-4164-8e70-b8bdd32aa520)
 
 
