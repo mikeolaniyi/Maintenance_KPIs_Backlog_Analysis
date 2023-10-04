@@ -4,7 +4,7 @@
 
 ## This report showcases how different departments within the organization could schedule and run their technical maintenance more effectively.
 
-- This Dashboard displays Backlog Work Orders by Work Criticality
+- This Dashboard displays Backlog Work Orders by Work Criticality.
 
 
 # [View Dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiNTE4ZWMwZGEtY2JlOS00ZjZlLTg0NGYtNWY1ZWJhMWU3OGY0IiwidCI6IjEyMWFkMTYxLTk3MTAtNDQ3Ny1iYjZlLWJmZWNlMmMyMmFjOSJ9)
